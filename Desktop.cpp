@@ -15,7 +15,6 @@ void Desktop::setMouse(string pmouse) {
 }
 
 void Desktop::setRam(string pram) {
-
 	ram = pram;
 }
 

@@ -18,7 +18,7 @@ int main()
     Desktop* desktop2 = director2.buildDesktop();
 
     desktop1->showSpecs();
-    cout << "----------" << endl;
+    cout << "----------\n" << endl;
     desktop2->showSpecs();
 
    
